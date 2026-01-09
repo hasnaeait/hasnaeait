@@ -1,7 +1,7 @@
-### 👋 Salut, je suis Hasnaeait
+### 👋 Salut, je suis Hasnae Ait Lhaj
 
 🔍 **À propos de moi :**  
-Je suis une étudiante en ingénierie industrielle et mécatronique passionnée par la robotique et l'automatisation. Mon objectif est d'intégrer la mécanique et l'électronique pour créer des systèmes intelligents et autonomes.
+Je suis une ingénieure en mécatronique passionnée par la robotique et l'automatisation. Mon objectif est d'intégrer la mécanique et l'électronique pour créer des systèmes intelligents et autonomes.
 
 🚀 **Ce qui m'intéresse :**  
 - 🤖 Robotique et mécatronique  
